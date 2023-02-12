@@ -1,0 +1,16 @@
+.btnBlk {
+    background-color: black;
+    color: white;
+
+}
+
+.btnyelo {
+    background-color: yellow;
+    color: black;
+}
+
+.btnBlk,
+.btnyelo {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
