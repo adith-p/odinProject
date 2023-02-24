@@ -3,7 +3,7 @@ body {
 }
 
 .ingr {
-    text-align: center;
+    align-items: center;
 }
 
 #recipe-name {
